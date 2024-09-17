@@ -47,7 +47,7 @@ AiNiee 是一款专注于Ai翻译的工具，可以用来一键自动翻译RPG S
 
 ### 帮我回血
 
-<img src="./assets/d3fd336fd59763699a96fc790c410b2b.jpeg" alt="d3fd336fd59763699a96fc790c410b2b-w70" style="zoom: 33%;" />
+![d3fd336fd59763699a96fc790c410b2b](./assets/d3fd336fd59763699a96fc790c410b2b.png)
 
 ## 资源文件
 
