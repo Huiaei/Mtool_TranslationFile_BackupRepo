@@ -1,7 +1,7 @@
 # Mtool_TranslationFile_BackupRepo
 Mtool已翻译文件备份仓库
 
-使用 Mtool 工具和 AiNiee 工具以及各个受到AiNiee支持的大模型平台。建立初心为节约计算资源和小钱钱，如果你觉得不错，或许也可以考虑下帮我回回血。
+使用 Mtool 工具和 AiNiee 工具以及各个受到AiNiee支持的大模型平台。建立初心为节约计算资源和小钱钱，如果你觉得不错，或许也可以考虑下帮我回[回血](https://github.com/Huiaei/Mtool_TranslationFile_BackupRepo/edit/main/README.md#%E5%B8%AE%E6%88%91%E5%9B%9E%E8%A1%80)。
 
 ## Mtool
 
